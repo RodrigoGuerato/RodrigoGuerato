@@ -3,6 +3,7 @@
 
 Aqui você encontrará todos os projetos usados durantes minhas aulas de Java/Spring e projetos openSource que gosto (Em andamento).
 
+Atuo também em projetos freelancer.
 
 <!---
 RodrigoGuerato/RodrigoGuerato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
